@@ -1,3 +1,7 @@
 .travelmaindiv{
     border: 1px solid lightblue;
 }
+
+.travelmaindiv img{
+    width: 100%;
+}
